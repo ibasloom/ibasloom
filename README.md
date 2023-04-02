@@ -1,8 +1,5 @@
 <h1 align="center">Hi 👋, I'm Imran Chaush</h1>
 <h3 align="center">Hadoop Admin + Cloud Architecture</h3>
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io>
-
-<img align="right" alt="Coding" width="400" src="https://dribbble.com/shots/6076217-Auto-repair-website-illustration">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ibasloom&label=Profile%20views&color=0e75b6&style=flat" alt="ibasloom" /> </p>
@@ -11,6 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/@ichaush3" target="blank"><img src="https://img.shields.io/twitter/follow/@ichaush3?logo=twitter&style=for-the-badge" alt="@ichaush3" /></a> </p>
 
+<img align="right" alt="Coding" width="400" src="https://github.com/ibasloom/ibasloom/blob/main/image/5127314.jpg">
 - 🔭 I’m currently working on [GCP Dataflow](https://github.com/ibasloom/GCP-Dataflow)
 
 - 🌱 I’m currently learning **Dataproc**
