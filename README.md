@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Imran Chaush</h1>
 <h3 align="center">Hadoop Admin + Cloud Architecture</h3>
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
-(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...")
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io>
+
+<img align="right" alt="Coding" width="400" src="https://dribbble.com/shots/6076217-Auto-repair-website-illustration">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ibasloom&label=Profile%20views&color=0e75b6&style=flat" alt="ibasloom" /> </p>
